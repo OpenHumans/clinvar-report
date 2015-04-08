@@ -1,0 +1,1 @@
+https://github.com/PersonalGenomesOrg/vcf2clinvar/archive/master.zip
