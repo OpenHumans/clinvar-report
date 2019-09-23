@@ -10,7 +10,7 @@ This code is a slightly modified and stand alone version of the report generatio
 Getting Started
 ----
 
-You'll need a local copy of the `clinvar.vcf` file from ftp://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh37/clinvar.vcf.gz .
+You'll need a local copy of the `clinvar.vcf` file from [ftp://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh37/clinvar.vcf.gz](ftp://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh37/clinvar.vcf.gz).
 You can either download this yourself or run the `setup.sh` script provided.
 
 ```
